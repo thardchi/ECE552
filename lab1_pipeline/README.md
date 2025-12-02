@@ -7,7 +7,7 @@ We extended the SimpleScalar `sim-safe` simulator to measure stalls and CPI degr
 
 ### 🛠️ What We Implemented
 
-- mRAW hazard detection with stall-cycle counting
+- RAW hazard detection with stall-cycle counting
 - Support for:
   - 5-stage pipeline (no forwarding)
   - 6-stage pipeline (with EX1/EX2 forwarding)
